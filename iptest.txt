@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,ip.me
+  - DOMAIN-SUFFIX,ifconfig.me
